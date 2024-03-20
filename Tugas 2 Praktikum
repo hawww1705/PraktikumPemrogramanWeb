@@ -1,29 +1,32 @@
+//untuk halaman 1
 <!DOCTYPE html>
 <html lang = "en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0">
         <title>Halaman 1 Latihan Praktikum 2</title>
     </head>
     <body>
         <H1>Halaman 1</H1>
         <p>Hello World 1</p>
-        <a href="page.2 html">Halaman 2</page2></a>
+        <a href="HALAMAN 2.html">Halaman 2</page2></a>
     </body>
 </html>
 
 
-
+//untuk halaman 2
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0">
         <title>Halaman 2 Latihan Praktikum 2</title>
     </head>
     <body>
         <H1>Halaman 2</H1>
         <p>Ini adalah halaman kedua Hello World</p>
-        <a href="index.html">Halaman 1</a>
+        <a href="HALAMAN 1.html">Halaman 1</a>
     </body>
 </html>
