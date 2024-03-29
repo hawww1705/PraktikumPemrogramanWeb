@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Biodata Diri</title>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  .profile-image {
+    border: 2px solid #000;
+    margin-right: 20px;
+  }
+  .bio {
+    border: 2px solid #000;
+    padding: 10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="WhatsApp Image 2024-03-21 at 10.54.15.jpeg" alt="Foto Profil" class="profile-image" height="200">
+  <div class="bio">
+    <h2>Nama: Hizkia Ariel Wijono</h2>
+    <p>Umur: 21 tahun</p>
+    <p>Alamat: Jl. Indraprasta</p>
+    <p>Pendidikan: S1 Sistem Informasi</p>
+  </div>
+</div>
+
+</body>
+</html>
