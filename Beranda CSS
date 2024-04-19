@@ -1,0 +1,13 @@
+body{
+    background-color: #006242;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: inherit;
+    text-align: justify;
+    font-weight: 200;
+    color: whitesmoke;
+}
+img{
+    width: 200px;
+    height: fit-content;
+}
