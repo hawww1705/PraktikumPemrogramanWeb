@@ -1,11 +1,10 @@
-//CODING TUGAS NO 2
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Jadwal Kuliah</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Jadwal Kuliah PT 5.css" rel="stylesheet">
 </head>
 <body>
 
