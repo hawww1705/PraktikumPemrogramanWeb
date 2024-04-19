@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Beranda</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Beranda.css" rel="stylesheet">
+    <link rel="stylesheet" href="manchester_united_logo_PNG1.png">
+    <link rel="stylesheet" href="GettyImages-1782547159-1920x1433.webp">
+<body>
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Menu Kiri -->
+        <div class="col-md-3">
+            <h3>Hizkia Ariel W - 06846</h3>
+            <ul class="list-group">
+                <a href="Beranda TP 5.html" class="list-group-item">Beranda</a>
+                <a href="Jadwal Kuliah PT 5.html" class="list-group-item">Jadwal Kuliah</a>
+                <a href="Biodata PT 5.html" class="list-group-item">Biodata</a>
+            </ul>
+        </div>
+
+        <!-- Konten Beranda -->
+        <div class="col-md-9">
+            <h1>Beranda</h1>
+            <section class="mt-4">
+                <h2>Sejarah Singkat Manchester United</h2>
+                <p>Manchester United adalah salah satu klub sepak bola paling sukses dan terkenal di dunia yang didirikan pada tahun 1878 sebagai Newton Heath LYR Football Club oleh departemen kereta api dari perusahaan Lancashire and Yorkshire Railway. Dengan julukan "The Red Devils", Manchester United telah meraih banyak gelar domestik dan internasional, termasuk Liga Inggris, Piala FA, Liga Champions UEFA, dan Piala Dunia Antar Klub FIFA. Klub ini juga dikenal dengan tradisi mengembangkan pemain muda melalui akademi sepak bola mereka, seperti Ryan Giggs, Paul Scholes, dan David Beckham, yang kemudian menjadi bintang-bintang sepak bola dunia. Selain itu, stadion mereka, Old Trafford, adalah salah satu stadion sepak bola terbesar dan paling ikonik di dunia. </p>
+            </section>
+            <img src="manchester_united_logo_PNG1.png"> <img src="GettyImages-1782547159-1920x1433.webp">
+            <section class="mt-4">
+                <h2>Trofi Manchester United</h2>
+                <p>Liga Primer Inggris (Premier League): Manchester United telah meraih 20 gelar Liga Primer, menjadi klub dengan gelar terbanyak sepanjang sejarah Liga Primer.
+                <p>Piala FA (FA Cup): Klub ini telah memenangkan Piala FA sebanyak 12 kali, yang terakhir kali diraih pada tahun 2016.</p>
+                <p>Piala Liga (EFL Cup): Manchester United telah meraih 5 gelar Piala Liga, dengan yang terbaru diraih pada tahun 2017.</p>
+                <p>Liga Champions UEFA: Manchester United memenangkan Liga Champions UEFA tiga kali, yaitu pada tahun 1968, 1999, dan 2008. Kemenangan 1999 terkenal sebagai "Treble Winners" karena mereka juga memenangkan Liga Primer dan Piala FA dalam satu musim.</p>
+                <p>Piala Winners UEFA: Klub ini juga berhasil memenangkan Piala Winners UEFA (sekarang dikenal sebagai Liga Eropa UEFA) pada tahun 1991. </p>
+                <p>Piala Super UEFA: Manchester United telah memenangkan Piala Super UEFA sebanyak satu kali pada tahun 1991.</p>
+                <p>Piala Dunia Antar Klub FIFA: Klub ini menjadi juara Piala Dunia Antar Klub FIFA pada tahun 2008.</p>
+            </section>
+        </div>
+    </div>
+</div>
+
+<!-- Menu -->
+<div class="container mt-4">
+    <a href="Beranda TP 5.html" class="btn btn-primary mr-2">Beranda</a>
+    <a href="Jadwal Kuliah PT 5.html" class="btn btn-primary mr-2">Jadwal Kuliah</a>
+    <a href="Biodata PT 5.html" class="btn btn-primary">Biodata</a>
+</div>
+
+</body>
+</html>
